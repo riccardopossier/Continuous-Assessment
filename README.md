@@ -13,9 +13,7 @@ This repository contains code and analysis for predicting employee attrition usi
 5. [Machine Learning](#machine-learning)
 6. [Hypothesis Formulation and Testing](#hypothesis-formulation-and-testing)
 7. [Conclusions](#conclusions)
-8. [Usage](#usage)
-9. [Contributing](#contributing)
-10. [License](#license)
+
 
 ## Introduction
 
